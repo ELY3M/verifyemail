@@ -2,7 +2,7 @@
   "name": "ELY3M/verifyemail",
   "description": "Provides means for verification of e-mail addresses.",
   "type": "library",
-  "homepage": "https://github.com/masroore/verifyemail",
+  "homepage": "https://github.com/ELY3M/verifyemail",
   "keywords": [
     "php",
     "email",
